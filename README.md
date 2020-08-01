@@ -5,6 +5,7 @@ Custom shell aliases based on https://github.com/ahmetb/kubectl-aliases
 
 You can directly download the [`.kubectl_aliases`](https://github.com/angelokurtis/shell-aliases/blob/master/.kubectl_aliases)
 and save it in your $HOME directory:
+
 ```sh
 wget -O ~/.kubectl_aliases https://raw.githubusercontent.com/angelokurtis/shell-aliases/master/.kubectl_aliases
 ```
